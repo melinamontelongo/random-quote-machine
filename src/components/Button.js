@@ -5,7 +5,7 @@ const Button = ({ text, type, handleClick }) => {
             {text}
         </button>
     const tweetBtn = 
-        <a className="button-tweet btn btn-dark me-2 shadow" href="twitter.com/intent/tweet" target="_blank" id="tweet-quote">
+        <a className="button-tweet btn btn-dark me-2 shadow" href="https://twitter.com/intent/tweet" target="_blank" id="tweet-quote">
             {text}
         </a>
     return type === "next" ? nextBtn : tweetBtn
