@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Cutive+Mono&display=swap');
+.btn{
+    background: linear-gradient(to top, #355c7d, #6c5b7b, #c06c84)!important;
+    border: none!important;
+    padding: 1rem;
+    font-family: "Cutive Mono", sans-serif; 
+    font-size: 1.1rem;
+}
+
+.btn:hover{
+    background: linear-gradient(to bottom, #355c7d, #6c5b7b, #c06c84)!important;
+}

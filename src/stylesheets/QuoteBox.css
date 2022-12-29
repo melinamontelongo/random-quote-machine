@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Cutive+Mono&display=swap');
+
+.quote-container{
+    color: #fff;
+}
+.quote-author{
+    font-family: "Cookie", sans-serif;
+    font-size: 1.5rem;
+}
+
+.quote-text{
+    font-family: "Cutive Mono", sans-serif;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+html, body{
+  background: #355c7d; 
+  background: -webkit-linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+  background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+  height: 100%;
+}
+
+.main-container{
+  height: 40vh;
+  min-width: 35vw;
+  transform: translateY(calc(50vh - 40vh / 2));
+}
+
+.quote-main-container{
+  height: 25vh;
+}
+
+.main-container{
+  background: #355c7d; 
+  background: -webkit-linear-gradient(to left, #355c7d, #6c5b7b, #c06c84);
+  background: linear-gradient(to left, #355c7d, #6c5b7b, #c06c84);
+}
